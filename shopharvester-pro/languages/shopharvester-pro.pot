@@ -1,0 +1,35 @@
+# Copyright (C) 2024 Mohsen
+# This file is distributed under the same license as the ShopHarvester Pro plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: ShopHarvester Pro 3.4.7\n"
+"Report-Msgid-Bugs-To: https://mahsen81.ir/plugins/shopharvester-pro\n"
+"Last-Translator: Mohsen <info@mahsen81.ir>\n"
+"Language-Team: Persian\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Domain: shopharvester-pro\n"
+
+msgid "برداشت‌گر فروشگاه پرو"
+msgstr ""
+
+msgid "برداشت‌گر فروشگاه"
+msgstr ""
+
+msgid "داشبورد"
+msgstr ""
+
+msgid "اجرای برداشت"
+msgstr ""
+
+msgid "فروشگاه‌ها"
+msgstr ""
+
+msgid "گزارش‌ها"
+msgstr ""
+
+msgid "تنظیمات"
+msgstr ""
